@@ -1,0 +1,26 @@
+! include table 2
+
+ One of
+    
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+
+
+ One of
+    
+MATH 239 Introduction to Combinatorics
+MATH 249 Introduction to Combinatorics (Advanced Level)
+
+
+All of
+    
+PMATH 347 Groups and Rings 
+PMATH 348 Fields and Galois Theory 
+PMATH 351 Real Analysis 
+PMATH 352 Complex Analysis 
+PMATH 365 Differential Geometry
+PMATH 450 Lebesgue Integration and Fourier Analysis
+
+
+Three additional 400-level PMATH courses (1.5 units)
+Two additional 400-level math courses (1.0 unit) from ACTSC, AMATH, CO, CS, MATBUS, MATH, PMATH, or STAT

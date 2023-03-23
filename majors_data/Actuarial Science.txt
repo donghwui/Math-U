@@ -1,0 +1,55 @@
+! include table 2
+
+One of
+    
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+
+
+One of
+    
+AMATH 250 Introduction to Differential Equations 
+AMATH 251 Introduction to Differential Equations (Advanced Level) 
+AMATH 350 Differential Equations for Business and Economics 
+
+
+All of
+    
+AFM 101 Introduction to Financial Accounting
+ACTSC 231 Introductory Financial Mathematics 
+ACTSC 232 Life Contingencies 1
+ACTSC 331 Life Contingencies 2
+ACTSC 363 Casualty and Health Insurance Mathematics 1 
+ACTSC 372 Investment Science and Corporate Finance
+ACTSC 431 Casualty and Health Insurance Mathematics 2 
+ACTSC 446 Mathematics of Financial Markets
+ECON 101 Introduction to Microeconomics 
+ECON 102 Introduction to Macroeconomics
+ENGL 378/MTHEL 300 Professional Communications in Statistics and Actuarial Science
+MTHEL 131 Introduction to Actuarial Practice 
+STAT 330 Mathematical Statistics 
+STAT 331 Applied Linear Models 
+STAT 333 Stochastic Processes 1
+
+
+One of
+    
+STAT 340 Stochastic Simulation Methods
+STAT 341 Computational Statistics and Data Analysis
+        
+
+
+Two additional 400-level ACTSC courses
+Two additional courses chosen from
+    
+
+        Any 300- or 400-level ACTSC course 
+AFM 424 Equity Investments 
+STAT 431 Generalized Linear Models and their Applications 
+STAT 433 Stochastic Processes
+STAT 441 Statistical Learning - Classification
+STAT 443 Forecasting
+
+
+One additional 300- or 400-level math course (0.5 unit) from ACTSC, AMATH, CO, CS, MATBUS, MATH, PMATH, or STAT
+

@@ -1,0 +1,75 @@
+
+One of
+    
+CS 115 Introduction to Computer Science 1
+CS 135 Designing Functional Programs 
+CS 145 Designing Functional Programs (Advanced Level)
+
+
+One of
+    
+CS 116 Introduction to Computer Science 2
+CS 136 Elementary Algorithm Design and Data Abstraction 
+CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level)
+
+
+One of
+    
+MATH 135 Algebra for Honours Mathematics 
+MATH 145 Algebra (Advanced Level)
+
+
+One of
+    
+MATH 106 Applied Linear Algebra 1 
+MATH 136 Linear Algebra 1 for Honours Mathematics 
+MATH 146 Linear Algebra 1 (Advanced Level)
+
+
+One of
+    
+MATH 127 Calculus 1 for the Sciences 
+MATH 137 Calculus 1 for Honours Mathematics 
+MATH 147 Calculus 1 (Advanced Level) 
+
+
+One of
+    
+MATH 128 Calculus 2 for the Sciences 
+MATH 138 Calculus 2 for Honours Mathematics 
+MATH 148 Calculus 2 (Advanced Level)
+
+
+One of
+    
+MATH 207 Calculus 3 (Non-Specialist Level) 
+MATH 229 Introduction to Combinatorics (Non-Specialist Level) 
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+MATH 239 Introduction to Combinatorics 
+MATH 249 Introduction to Combinatorics (Advanced Level)
+
+
+One of
+    
+MATH 225 Applied Linear Algebra 2 
+MATH 235 Linear Algebra 2 for Honours Mathematics 
+MATH 245 Linear Algebra 2 (Advanced Level)
+
+
+One of
+    
+STAT 220 Probability (Non-Specialist Level) 
+STAT 230 Probability 
+STAT 240 Probability (Advanced Level)
+
+
+One of
+    
+STAT 221 Statistics (Non-Specialist Level) 
+STAT 231 Statistics 
+STAT 241 Statistics (Advanced Level)
+        
+
+
+10 additional 300- or 400-level math courses (5.0 units) from ACTSC, AMATH, CO, CS, MATBUS, MATH, PMATH, or STAT

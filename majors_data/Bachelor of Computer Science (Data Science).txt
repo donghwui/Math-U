@@ -1,0 +1,51 @@
+
+
+    One of
+    
+MATH 235 Linear Algebra 2 for Honours Mathematics
+MATH 245 Linear Algebra 2 (Advanced Level)
+
+
+One of
+    
+MATH 237 Calculus 3 for Honours Mathematics
+MATH 247 Calculus 3 (Advanced Level)
+
+
+
+    All of
+    
+CS 348 Introduction to Database Management
+CS 451 Data-Intensive Distributed Computing 
+STAT 330 Mathematical Statistics
+STAT 331 Applied Linear Models
+STAT 341 Computational Statistics and Data Analysis
+
+
+One of
+    
+CS 480 Introduction to Machine Learning
+CS 485 Statistical and Computational Foundations of Machine Learning
+CS 486 Introduction to Artificial Intelligence
+
+
+One additional course from the following list
+    
+CS 448 Database Systems Implementation
+CS 454 Distributed Systems
+CS 480 Introduction to Machine Learning
+CS 485 Statistical and Computational Foundations of Machine Learning
+CS 486 Introduction to Artificial Intelligence
+
+
+
+    Two of
+    
+STAT 431 Generalized Linear Models and their Applications
+STAT 440 Computational Inference
+STAT 441 Statistical Learning - Classification
+STAT 442 Data Visualization
+STAT 443 Forecasting
+STAT 444 Statistical Learning - Advanced Regression
+
+

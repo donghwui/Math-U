@@ -1,0 +1,76 @@
+! include table 2
+
+One of
+    
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+
+
+One of
+    
+MATH 239 Introduction to Combinatorics
+MATH 249 Introduction to Combinatorics (Advanced Level)
+
+
+All of
+
+AMATH 242/CS 371 Introduction to Computational Mathematics
+CS 230 Introduction to Computers and Computer Systems 
+CS 234 Data Types and Structures
+
+Two of the following foundational courses, with different subject codes (AMATH, CO, CS, PMATH, or STAT)
+
+AMATH 250 Introduction to Differential Equations or AMATH 251 Introduction to Differential Equations (Advanced Level) or AMATH 350 Differential Equations for Business and Economics
+CO 250 Introduction to Optimization or CO 255 Introduction to Optimization (Advanced Level) (see Note 2)
+CS 245 Logic and Computation or CS 245E Logic and Computation (Enriched) or  PMATH 330 Introduction to Mathematical Logic
+
+
+CS 246 Object-Oriented Software Development or CS 246E Object-Oriented Software Development (Enriched)
+
+
+Two courses from the following list of core courses
+
+AMATH 342 Computational Methods for Differential Equations
+CO 353 Computational Discrete Optimization or CO 367 Nonlinear Optimization
+CS 475 Computational Linear Algebra
+PMATH 370 Chaos and Fractals
+STAT 340 Stochastic Simulation Methods or STAT 341 Computational Statistics and Data Analysis
+
+
+Four additional courses, that may include any of the courses on the core courses list above, or may be chosen from the following list, using at least two different subject codes (from AMATH, CO, CS, PMATH, and STAT), and at least two of which must be 400-level courses
+
+AMATH 343 Discrete Models in Applied Mathematics
+AMATH 382/BIOL 382 Computational Modelling of Cellular Systems (see Note 3)
+AMATH 383 Introduction to Mathematical Biology
+AMATH 391 From Fourier to Wavelets
+AMATH 442 Computational Methods for Partial Differential Equations
+AMATH 455 Control Theory
+AMATH 477 Stochastic Processes for Applied Mathematics
+CO 351 Network Flow Theory
+CO 370 Deterministic OR Models 
+CO 372 Portfolio Optimization Models
+CO 450 Combinatorial Optimization
+CO 452 Integer Programming
+CO 454 Scheduling
+CO 456 Introduction to Game Theory
+CO 463 Convex Optimization and Analysis
+CO 466 Continuous Optimization
+CO 471 Semidefinite Optimization
+CO 485 The Mathematics of Public-Key Cryptography
+CO 487 Applied Cryptography
+CS 341 Algorithms
+CS 431 Data-Intensive Distributed Analytics or CS 451 Data-Intensive Distributed Computing
+CS 466 Algorithm Design and Analysis
+CS 476 Numerical Computation for Financial Modeling
+CS 479 Neural Networks
+CS 480 Introduction to Machine Learning
+CS 482 Computational Techniques in Biological Sequence Analysis
+CS 485 Statistical and Computational Foundations of Machine Learning
+CS 487 Introduction to Symbolic Computation
+STAT 440 Computational Inference
+STAT 441 Statistical Learning - Classification
+STAT 442 Data Visualization
+STAT 444 Statistical Learning - Advanced Regression
+
+
+Three (1.5 units) non-math courses, at least one of which must be at the 200-, 300-, or 400-level, from exactly one of the following Economics, Engineering, or Science subject codes: AE, BIOL, BME, CHE, CHEM, CIVE, EARTH, ECE, ECON, ENVE, GEOE, ME, MNS, MSCI, MTE, NE, PHYS, SYDE (other course concentrations may be eligible subject to approval by a Computational Mathematics academic advisor).
