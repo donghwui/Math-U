@@ -1,0 +1,29 @@
+! include table 2
+
+One of
+    
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+
+
+All of
+    
+AMATH 231 Calculus 4 
+AMATH 242/CS 371 Introduction to Computational Mathematics
+AMATH 251 Introduction to Differential Equations (Advanced Level)
+AMATH 332/PMATH 332 Applied Complex Analysis 
+AMATH 342 Computational Methods for Differential Equations
+AMATH 351 Ordinary Differential Equations
+AMATH 353 Partial Differential Equations 1 
+
+
+One of
+
+PHYS 121 Mechanics
+PHYS 111 Physics 1 with a grade of at least 70%
+        
+
+Three 400-level AMATH courses
+One 300- or 400-level AMATH course
+A subject concentration consisting of four additional courses (2.0 units), all from any one (and only one) of the following Science, Engineering, or Economics subject codes: AE, BIOL, BME/SYDE, CHE, CHEM, CIVE, EARTH, ECE, ECON, ENVE, GEOE, ME/MTE, MNS, MSCI, NE, PHYS. Alternatively, a set of four courses (2.0 units) from another academic unit may be eligible, subject to approval by the Applied Mathematics academic advisor.
+Five additional math courses (2.5 units) from ACTSC, AMATH, CO, CS, MATBUS, MATH, PMATH, or STAT
