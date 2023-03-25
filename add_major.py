@@ -1,6 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
 
+# header
+print("MAJOR COURSE REQUIREMENTS DATA COLLECTOR [Adam & Donghwui 2023]")
+print("--------------------------------\n")
+
+# prompts user to enter the major name
+major_name = input("Enter Major Name: ")
+
 # prompts user to enter a link to the ugrad major requirements
 link = input("Enter Link to Major Requirements: ")
 
@@ -8,7 +15,6 @@ page = requests.get(link)
 soup = BeautifulSoup(page.text, "html.parser")
 
 requirements = soup.find("span", attrs="MainContent").ul
-major_name = soup.find("span", class_="pageTitle").text
 
 # ensures no slashes are in the majors name
 major_name = major_name.replace('/', ' ')
