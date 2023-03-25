@@ -1,2 +1,2 @@
-# Retrieval-Chatbot
-Retrieval Chatbot Project || Project Program W23
+# Math-U
+Academic Chatbot Project || Project Program W23
