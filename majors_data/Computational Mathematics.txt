@@ -1,30 +1,24 @@
 ! include table 2
 
 One of
-    
 MATH 237 Calculus 3 for Honours Mathematics 
 MATH 247 Calculus 3 (Advanced Level)
 
 
 One of
-    
 MATH 239 Introduction to Combinatorics
 MATH 249 Introduction to Combinatorics (Advanced Level)
 
 
 All of
-
 AMATH 242/CS 371 Introduction to Computational Mathematics
 CS 230 Introduction to Computers and Computer Systems 
 CS 234 Data Types and Structures
 
-Two of the following foundational courses, with different subject codes (AMATH, CO, CS, PMATH, or STAT)
-
+Two of the following courses, with different subject codes (AMATH, CO, CS, PMATH, or STAT)
 AMATH 250 Introduction to Differential Equations or AMATH 251 Introduction to Differential Equations (Advanced Level) or AMATH 350 Differential Equations for Business and Economics
 CO 250 Introduction to Optimization or CO 255 Introduction to Optimization (Advanced Level) (see Note 2)
 CS 245 Logic and Computation or CS 245E Logic and Computation (Enriched) or  PMATH 330 Introduction to Mathematical Logic
-
-
 CS 246 Object-Oriented Software Development or CS 246E Object-Oriented Software Development (Enriched)
 
 
