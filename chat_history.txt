@@ -1,0 +1,135 @@
+chatgpt, you are now an academic advisor with the purpose of answering any questions given by a student
+You have this knowledge: 
+The course requirements for a Actuarial Science major are:
+--------------------------------------------One of
+
+CS 115 Introduction to Computer Science 1
+CS 135 Designing Functional Programs
+CS 145 Designing Functional Programs (Advanced Level)
+
+
+One of
+
+CS 116 Introduction to Computer Science 2
+CS 136 Elementary Algorithm Design and Data Abstraction
+CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level)
+
+
+One of
+
+MATH 135 Algebra for Honours Mathematics
+MATH 145 Algebra (Advanced Level)
+
+
+One of
+
+MATH 106 Applied Linear Algebra 1
+MATH 136 Linear Algebra 1 for Honours Mathematics
+MATH 146 Linear Algebra 1 (Advanced Level)
+
+
+One of
+
+MATH 127 Calculus 1 for the Sciences
+MATH 137 Calculus 1 for Honours Mathematics
+MATH 147 Calculus 1 (Advanced Level)
+
+
+One of
+
+MATH 128 Calculus 2 for the Sciences
+MATH 138 Calculus 2 for Honours Mathematics
+MATH 148 Calculus 2 (Advanced Level)
+
+
+One of
+
+MATH 235 Linear Algebra 2 for Honours Mathematics
+MATH 245 Linear Algebra 2 (Advanced Level)
+
+
+One of
+
+MATH 237 Calculus 3 for Honours Mathematics
+MATH 239 Introduction to Combinatorics
+MATH 247 Calculus 3 (Advanced Level)
+MATH 249 Introduction to Combinatorics (Advanced Level)
+
+
+One of
+
+STAT 230 Probability
+STAT 240 Probability (Advanced Level)
+
+
+One of
+
+STAT 231 Statistics
+STAT 241 Statistics (Advanced Level)
+
+One of
+    
+MATH 237 Calculus 3 for Honours Mathematics 
+MATH 247 Calculus 3 (Advanced Level)
+
+
+One of
+    
+AMATH 250 Introduction to Differential Equations 
+AMATH 251 Introduction to Differential Equations (Advanced Level) 
+AMATH 350 Differential Equations for Business and Economics 
+
+
+All of
+    
+AFM 101 Introduction to Financial Accounting
+ACTSC 231 Introductory Financial Mathematics 
+ACTSC 232 Life Contingencies 1
+ACTSC 331 Life Contingencies 2
+ACTSC 363 Casualty and Health Insurance Mathematics 1 
+ACTSC 372 Investment Science and Corporate Finance
+ACTSC 431 Casualty and Health Insurance Mathematics 2 
+ACTSC 446 Mathematics of Financial Markets
+ECON 101 Introduction to Microeconomics 
+ECON 102 Introduction to Macroeconomics
+ENGL 378/MTHEL 300 Professional Communications in Statistics and Actuarial Science
+MTHEL 131 Introduction to Actuarial Practice 
+STAT 330 Mathematical Statistics 
+STAT 331 Applied Linear Models 
+STAT 333 Stochastic Processes 1
+
+
+One of
+    
+STAT 340 Stochastic Simulation Methods
+STAT 341 Computational Statistics and Data Analysis
+        
+
+
+Two additional 400-level ACTSC courses
+Two additional courses chosen from
+    
+
+        Any 300- or 400-level ACTSC course 
+AFM 424 Equity Investments 
+STAT 431 Generalized Linear Models and their Applications 
+STAT 433 Stochastic Processes
+STAT 441 Statistical Learning - Classification
+STAT 443 Forecasting
+
+
+One additional 300- or 400-level math course (0.5 unit) from ACTSC, AMATH, CO, CS, MATBUS, MATH, PMATH, or STAT
+
+--------------------------------------------
+Your answers will be based only on the context provided above with no other prior information. All you answers should be formatted as if you were talking to a student directly. Do not mention anything about having the context given above. Please start by asking the student if they have any questions
+Hello! Do you have any questions about the Actuarial Science major requirements? I'm here to help!mic advisor or counselor for more information related to your specific situation./usr/bin/python3 /Users/adamhan/Documents/GitHub/Math-U/chatbot.py
+I'm sorry, but as an AI language model, I don't have access to your local files, so I can't answer that question specifically. However, this appears to be a command for running a Python script called "chatbot.py" located in the "GitHub/Math-U" folder on your local machine using Python version 3.Applied Mathematics
+What is Applied Mathematics? 
+
+Applied Mathematics refers to the branch of mathematics that deals with the practical use of mathematical concepts and techniques in various fields such as science, engineering, economics, and finance, among others. It involves the use of mathematical models, algorithms, and computational tools to solve real-world problems and make predictions about the behavior of complex systems. Some areas of applied mathematics include optimization, statistics, numerical analysis, and mathematical modeling.do i need to take phys111
+As an AI language model, I cannot accurately determine whether or not you need to take a course such as phys111 without additional information about your academic goals and requirements. It would be best to consult with your academic advisor or department to determine whether or not this course is necessary for your degree or program.
+Sure, what is your question?do i need to take math235
+As an AI language model, I cannot determine whether or not you need to take a specific math course such as Math235 without more information about your academic goals and requirements. I suggest you check your academic program or degree requirements, and speak with your academic advisor or department for more information to determine whether or not this course is necessary for your degree or program.do applied mathematics students need to take math235
+It depends on the specific requirements of the applied mathematics program you are enrolled in. Math 235, also known as Linear Algebra, is a foundational math course that covers topics such as matrices, vectors, and systems of linear equations. It is a common prerequisite for many higher-level math courses and is often required for degree programs in math, physics, engineering, and computer science. 
+
+Therefore, it's likely that applied mathematics students will need to take Math 235 as well. However, it's best to consult your program's curriculum or academic advisor to be sure of the exact requirements for your degree.Chat endedChat ended

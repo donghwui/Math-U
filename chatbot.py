@@ -23,28 +23,42 @@ def opening():
 
     response = completion.choices[0].message.content
     print(response)
+    return initial_prompt + "\n" + response
 
 
 # handles asking user for their question and outputting response
-def ask_and_response():
+def ask_and_response(chat_history_text):
     # asks user to enter their question
     question = input("Please Enter Your Question: ")
 
     # checks to end program
     if question == "end":
         end = True
+        return "Chat ended"
+
+    prompt = pf.prompt_with_history(chat_history_text, question)
+
 
     completion = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
-    messages=[{"role": "user", "content": question}]
+    messages=[
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": question}]
     )
 
     response = completion.choices[0].message.content
     print(response)
+    return question + "\n" + response
+
+
+with open("chat_history.txt", 'r+') as chat_history:
+    chat_history.write(opening())
+    while not end:
+        chat_history_text = chat_history.read()
+        chat_history.write(ask_and_response(chat_history_text))
 
 
 
-opening()
-while not end:
-    ask_and_response()
+
+
 

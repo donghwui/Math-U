@@ -29,3 +29,12 @@ def get_prompt(major):
         prompt += ("Your answers will be based only on the context provided above with no other prior information. All you answers should be formatted as if you were talking to a student directly. Do not mention anything about having the context given above. Please start by asking the student if they have any questions")
     return prompt
 
+
+
+def prompt_with_history(chat_history_text, question):
+    prompt = 'Here is the previous conversation we had\n'
+    prompt += "-----------------------------\n"
+    prompt += chat_history_text
+    prompt += "\n-----------------------------\n"
+
+    return prompt
