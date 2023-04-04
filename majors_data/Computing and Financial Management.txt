@@ -1,0 +1,115 @@
+
+One of
+    
+CS 115 Introduction to Computer Science 1
+CS 135 Designing Functional Programs 
+CS 145 Designing Functional Programs (Advanced Level)
+Note: Computing and Financial Management students normally start in CS 135. Students with strong aptitude may take CS 145 and CS 146. Students who start in CS 115 must take CS 116 as an extra course before taking CS 136.
+
+
+One of
+    
+CS 136 Elementary Algorithm Design and Data Abstraction
+CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level)
+
+
+One of
+    
+MATH 135 Algebra for Honours Mathematics 
+MATH 145 Algebra (Advanced Level) 
+
+
+One of
+    
+MATH 136 Linear Algebra 1 for Honours Mathematics 
+MATH 146 Linear Algebra 1 (Advanced Level) 
+
+
+One of
+    
+MATH 127 Calculus 1 for the Sciences 
+MATH 137 Calculus 1 for Honours Mathematics 
+MATH 147 Calculus 1 (Advanced Level)
+
+
+One of
+    
+MATH 128 Calculus 2 for the Sciences 
+MATH 138 Calculus 2 for Honours Mathematics 
+MATH 148 Calculus 2 (Advanced Level)
+
+
+One of
+    
+MATH 239 Introduction to Combinatorics 
+MATH 249 Introduction to Combinatorics (Advanced Level)
+
+
+One of
+    
+STAT 230 Probability 
+STAT 240 Probability (Advanced Level)
+
+
+One of
+    
+STAT 231 Statistics
+STAT 241 Statistics (Advanced Level)
+
+
+All of
+    
+AFM 132 Introduction to Business Stages 
+AFM 191 Foundations for Financial Reporting 
+AFM 272/ACTSC 291 Global Capital Markets and Financial Analysis
+AFM 274 Introduction to Corporate Finance
+AFM 322 Derivative Securities
+AFM 424 Equity Investments 
+AFM 425 Fixed Income Securities
+CFM 101 Introduction to Financial Markets and Data Analytics
+CFM 301 Financial Data Analytics 
+CS 136L Tools and Techniques for Software Development 
+CS 240 Data Structures and Data Management or CS 240E Data Structures and Data Management (Enriched) 
+CS 241 Foundations of Sequential Programs  or CS 241E Foundations of Sequential Programs (Enriched) 
+CS 245 Logic and Computation or CS 245E Logic and Computation (Enriched) 
+CS 246 Object-Oriented Software Development or CS 246E Object-Oriented Software Development (Enriched)
+CS 341 Algorithms 
+ECON 101 Introduction to Microeconomics 
+ECON 102 Introduction to Macroeconomics
+STAT 373 Regression and Forecasting Methods in Finance 
+
+
+Two of
+    
+AFM 291 Intermediate Financial Accounting 1
+
+        Any AFM course at the 300- or 400-level not listed above
+CFM 401 Topics in Financial Technology
+ECON 201 Microeconomic Theory for Business and Policy
+ECON 206 Money and Banking 1
+ECON 207 Economic Growth and Development 1
+ECON 231 Introduction to International Economics 
+ECON 332 International Finance
+MGMT 244/ARBUS 302 Principles of Marketing 
+PHIL 215/ARBUS 202 Professional and Business Ethics
+
+
+One of these sets of three additional courses:
+
+Two additional AFM courses (1.0 unit) at the 300-level or higher, not listed above, and CFM 401 if not taken to fulfil a requirement above.
+
+        Three additional AFM courses (1.5 units) at the 300-level or higher, not listed above.
+        
+
+
+One additional course from CS 440-CS 498, CO 487
+Two additional courses from CS 251 or CS 251E, CS 340-CS 398, CS 440-CS 498, CO 487
+Two of
+    
+COMMST 223 Public Speaking 
+EMLS 129R/ENGL 129R Written Academic English
+ENGL 109 Introduction to Academic Writing
+ENGL 119 Communications in Mathematics and Computer Science 
+
+
+Four additional courses (2.0 units)
