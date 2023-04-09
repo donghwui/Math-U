@@ -10,7 +10,7 @@ Math-U is an Academic Advising Chatbot made to answer any questions that uWaterl
 <table>
     <tr>
         <td> Languages: </td>
-        <td> Python </td>
+        <td> Python, HTML, CSS </td>
     </tr>
     <tr>
         <td> Technologies: </td>
