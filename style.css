@@ -1,0 +1,95 @@
+body {
+	background-color: #b35066;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.top {
+    color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    width: 100%;
+    border-spacing: 10px;
+}
+  
+td {
+    text-align: center;
+    background-color: rgb(198, 113, 113);
+    width: calc(100% / 3 - 10px);
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+}
+
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+   }
+  
+
+h1 {
+    width: 80%;
+    color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+	max-width: 800px;
+	margin: auto;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.chatbox {
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+	border-radius: 10px;
+	overflow-y: scroll;
+	max-height: 400px;
+}
+
+.inputbox {
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-top: 1px solid #ccc;
+	padding-top: 10px;
+}
+
+.inputbox input[type=text] {
+	flex: 1;
+	padding: 10px;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.inputbox button {
+	padding: 10px;
+	background-color: #1a73e8;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
