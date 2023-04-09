@@ -21,7 +21,7 @@ Math-U is an Academic Advising Chatbot made to answer any questions that uWaterl
         <td> gpt-3.5-turbo </td>
     </tr>
 </table>
-<br><br>
+<br>
 
 # Example Dialogue :speech_balloon:
 (Example with **"Applied Mathematics"** major selected) <br>
