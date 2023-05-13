@@ -1,5 +1,5 @@
 # Math-U
-## Made by <a href="https://github.com/adam-han">Adam Han</a> & Donghwui Kim
+## Made by <a href="https://github.com/adam-han">@Adam Han</a> & Donghwui Kim
 ___
 
 # Description :page_facing_up:
