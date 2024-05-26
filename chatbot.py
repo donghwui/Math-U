@@ -2,7 +2,7 @@ import openai
 import prompt_formatter as pf
 
 # API Key (pls don't show anyone, money is attached to this)
-openai.api_key = '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'
+openai.api_key = ''
 
 # randomness level of responses (between 0 to 2, with 2 being more random)
 randomness_level = 0.4
