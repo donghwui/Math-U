@@ -1,23 +1,40 @@
-{"intents": [
-    {"tag": "greeting",
+{
+  "intents": [
+    {
+      "tag": "greeting",
       "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "What's up?"],
-      "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
-      "context_set": ""
+      "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"]
     },
-    {"tag": "goodbye",
+    {
+      "tag": "goodbye",
       "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
-      "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
-      "context_set": ""
+      "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
     },
-    {"tag": "course_requirements_pmath",
-      "patterns": [""],
-      "responses": ["____"],
-      "context_set": ""
+    {
+      "tag": "statistics_major_requirements",
+      "patterns": [
+        "What are the requirements for a statistics major?",
+        "Can you tell me about the course requirements for statistics?",
+        "What courses do I need for statistics major?",
+        "Statistics major course requirements",
+        "Required courses for statistics major"
+      ],
+      "responses": [
+        "For a Statistics major, you must complete courses such as MATH 237 or MATH 247 for Calculus 3, ENGL 378/MTHEL 300, STAT 330, 331, 332, and 333 among others. You'll also need to choose between options like MATH 239 or MATH 249, AMATH 231, and several 400-level STAT and other advanced math courses."
+      ]
     },
-    {"tag": "course_descriptions",
-      "patterns": [""],
-      "responses": ["____"],
-      "context_set": ""
+    {
+      "tag": "course_details",
+      "patterns": [
+        "Tell me more about MATH 237",
+        "Details on STAT 330",
+        "What is taught in STAT 331?",
+        "Information about MATH 239",
+        "Can you explain what AMATH 242 involves?"
+      ],
+      "responses": [
+        "MATH 237 covers Calculus 3 for Honours Mathematics, focusing on multiple integral calculations and their applications. For more specific syllabus details, you may want to check the official course webpage or contact the math department."
+      ]
     }
   ]
-  }
+}
