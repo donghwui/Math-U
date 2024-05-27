@@ -21,5 +21,5 @@ def scrape_intents(url):
     return scraped_intents
 
 # Example URL
-url = 'http://example.com/intents'
+url = ''
 new_intents = scrape_intents(url)
